@@ -54,7 +54,7 @@ char *_strncat(char *dest, char *src, int p)
 	}
 	if (z < p)
 		dest[x] = '\0';
-	return (p);
+	return (a);
 }
 
 /**
